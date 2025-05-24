@@ -1,6 +1,6 @@
-#Name: Abdulkerim Neja
-#Section:4
-#ID: UGR/1591/15
+# Name: Abdulkerim Neja
+# Section:4
+# ID: UGR/1591/15
 # Album App Using Flutter
 
 A Flutter application that displays albums and photos from the JSONPlaceholder API.
